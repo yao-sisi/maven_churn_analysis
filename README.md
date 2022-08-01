@@ -24,3 +24,5 @@ Next, I singled out the top five (not including “don’t know”) churn reason
 Here’s the [SQL code](https://github.com/yao-sisi/maven_churn_analysis/blob/main/maven_churn_mysql_code) with my thought process as comments.
 
 Here’s the [Tableau Viz](https://public.tableau.com/views/CustomerChurnAnalysis-Maven/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) presenting my findings and recommendations (interactive).
+
+<img align="left" width="750" height="1500" src="https://miro.medium.com/max/700/1*HdZsw1V1tZ7O8J0y--403A.png">
